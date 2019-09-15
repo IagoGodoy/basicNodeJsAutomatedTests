@@ -4,6 +4,7 @@
   "description": "A basic application designed to exmplify the usage of automated tests",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "./node_modules/.bin/mocha --reporter spec --exit"
   },
   "keywords": [
