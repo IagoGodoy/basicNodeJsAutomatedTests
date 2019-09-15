@@ -1,0 +1,21 @@
+{
+  "name": "basic_automated_tests_exampl",
+  "version": "1.0.0",
+  "description": "A basic application designed to exmplify the usage of automated tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec --exit"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "automated",
+    "testing"
+  ],
+  "author": "Iago Matheus Lima de Godoy",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
