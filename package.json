@@ -16,7 +16,7 @@
   "author": "Iago Matheus Lima de Godoy",
   "license": "ISC",
   "dependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^6.2.0"
+    "chai": "~4.2.0",
+    "mocha": "~6.2.0"
   }
 }
